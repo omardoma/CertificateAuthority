@@ -10,7 +10,7 @@ An implementation of a Certificate Authority in Java.
 ## How to run?
 
 1. Clone the repo
-2. Opent the project in intelliJ idea or Eclipse
+2. Open the project in intelliJ idea or Eclipse
 
 
 &#9400; Omar Doma 2018
